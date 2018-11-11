@@ -1,0 +1,34 @@
+{
+  "data": {
+    "Seven Samurai": {
+      "rating": 4
+    },
+    "Lord of the Rings": {
+      "rating": 6
+    },
+    "Pursuit of Happiness": {
+      "rating": 1
+    },
+    "Oldboy": {
+      "rating": 6
+    },
+    "A Tale of Two Sisters": {
+      "rating": 7
+    },
+    "Kill Bill": {
+      "rating": 9
+    },
+    "The Godfather": {
+      "rating": 3
+    },
+    "The Dark Knight": {
+      "rating": 6
+    },
+    "Memento": {
+      "rating": 2
+    },
+    "Lawrence of Arabia": {
+      "rating": 6
+    }
+  }
+}

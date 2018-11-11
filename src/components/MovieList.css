@@ -1,0 +1,11 @@
+.movie__list {
+  padding-bottom: 20px;
+}
+
+.movie__list ul {
+  padding: 0px;
+}
+
+.movie__name {
+  width: 60%;
+}
